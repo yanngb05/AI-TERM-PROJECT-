@@ -1,0 +1,1 @@
+Next, we need to create a vocabulary of all the words used in the tweets. We will use the CountVectorizer class from scikit-learn to create the vocabulary. This class will also convert the tweets into feature vectors that can be used by the Naive Bayes classifier.

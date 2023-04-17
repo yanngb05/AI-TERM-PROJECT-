@@ -1,0 +1,5 @@
+Step 1 :
+
+To develop a Twitter Sentiment Analyzer using Naive Bayes, we need a dataset with tweets labeled as positive, negative, or neutral. Without such a dataset, we can't train a model to classify the tweets. However, we can still build a simple classifier based on the words used in the tweets.
+
+Let's start by cleaning and preprocessing the tweets. We will remove the URLs, mentions, hashtags, and punctuation marks, and convert all the words to lowercase.
